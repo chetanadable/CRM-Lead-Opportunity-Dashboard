@@ -94,4 +94,13 @@ Conversion rate is relatively low → indicates improvement needed in lead nurtu
 
 High loss rate (89.87%) suggests optimization required in sales strategy.
 
-Revenue trend shows fluctuations with peak performance in certain years
+Revenue trend shows fluctuations with peak performance in certain years.
+
+
+## 📷 Dashboard Preview  
+
+### Lead Dashboard  
+![Lead Dashboard](Screenshots/lead_dashboard.png)
+
+### Opportunity Dashboard  
+![Opportunity Dashboard](Screenshots/opportunity_dashboard.png)
