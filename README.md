@@ -100,7 +100,7 @@ Revenue trend shows fluctuations with peak performance in certain years.
 ## 📷 Dashboard Preview  
 
 ### Lead Dashboard  
-![Lead Dashboard](Screenshots/lead_dashboard.png)
+![Lead Dashboard]("Image\Lead Dashboard.png")
 
 ### Opportunity Dashboard  
 ![Opportunity Dashboard](Screenshots/opportunity_dashboard.png)
