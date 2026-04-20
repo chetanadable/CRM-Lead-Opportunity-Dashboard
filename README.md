@@ -103,4 +103,4 @@ Revenue trend shows fluctuations with peak performance in certain years.
 ![Lead Dashboard](https://github.com/chetanadable/CRM-Lead-Opportunity-Dashboard/blob/main/Lead%20Dashboard.png)
 
 ### Opportunity Dashboard  
-![Opportunity Dashboard]('Opportuity Dashboard.png')
+![Opportunity Dashboard](https://github.com/chetanadable/CRM-Lead-Opportunity-Dashboard/blob/main/Opportuity%20Dashboard.png)
